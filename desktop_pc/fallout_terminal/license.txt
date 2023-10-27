@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fallout terminal
+* source:	https://sketchfab.com/3d-models/fallout-terminal-7c04ad7d1b2649b5a4b24fc20b7c714b
+* author:	korsun (https://sketchfab.com/korsun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fallout terminal" (https://sketchfab.com/3d-models/fallout-terminal-7c04ad7d1b2649b5a4b24fc20b7c714b) by korsun (https://sketchfab.com/korsun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
